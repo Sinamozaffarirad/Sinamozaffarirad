@@ -1,7 +1,7 @@
 # Hi, I'm Sina Mozaffari Rad
 
-M.Sc. student in Computer Engineering (Computer Systems Architecture) at the University of Tehran, since
-October 2026. I did my B.Sc. in Computer Engineering at the University of Kashan (2021–2026).
+M.Sc. student in Computer Engineering (Computer Systems Architecture) at the University of Tehran. I did my
+B.Sc. in Computer Engineering at the University of Kashan.
 
 I'm most interested in the layer where hardware and software meet: computer architecture, on-chip
 communication, hardware/software co-design and embedded systems.
