@@ -1,10 +1,14 @@
 # Hi, I'm Sina Mozaffari Rad
 
-Computer engineering student at the University of Kashan. I'm most interested in the layer where hardware and
-software meet: embedded systems, hardware/software co-design, and on-chip communication.
+M.Sc. student in Computer Engineering (Computer Systems Architecture) at the University of Tehran, since
+October 2026. I did my B.Sc. in Computer Engineering at the University of Kashan (2021–2026, GPA 17.76/20,
+ranked 3rd of 60 in my entry year).
 
-Most of my projects started as course work, but I tried to take each one a step further than the assignment:
-measuring results, comparing alternatives, and writing down what didn't work.
+I'm most interested in the layer where hardware and software meet: computer architecture, on-chip
+communication, hardware/software co-design and embedded systems.
+
+The projects below are from my bachelor's. Most started as course work, but I tried to take each one a step
+further than the assignment: measuring results, comparing alternatives, and writing down what didn't work.
 
 ## Hardware, embedded and co-design
 
