@@ -3,11 +3,12 @@
 M.Sc. student in Computer Engineering (Computer Systems Architecture) at the University of Tehran. I did my
 B.Sc. in Computer Engineering at the University of Kashan.
 
-I'm most interested in the layer where hardware and software meet: computer architecture, on-chip
-communication, hardware/software co-design and embedded systems.
+During my master's I want to work on hardware for AI: accelerator architectures, the on-chip networks that
+move data between their processing elements, and the hardware/software co-design that decides what runs where.
 
-The projects below are from my bachelor's. Most started as course work, but I tried to take each one a step
-further than the assignment: measuring results, comparing alternatives, and writing down what didn't work.
+The projects below are from my bachelor's, in computer architecture, NoC modelling, embedded systems, signal
+processing and AI. Most started as course work, and I took each one further than the assignment by measuring
+results and comparing alternatives.
 
 ## Hardware, embedded and co-design
 
