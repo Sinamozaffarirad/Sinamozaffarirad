@@ -7,8 +7,7 @@ During my master's I want to work on hardware for AI: accelerator architectures,
 move data between their processing elements, and the hardware/software co-design that decides what runs where.
 
 The projects below are from my bachelor's, in computer architecture, NoC modelling, embedded systems, signal
-processing and AI. Most started as course work, and I took each one further than the assignment by measuring
-results and comparing alternatives.
+processing and AI. 
 
 ## Hardware, embedded and co-design
 
