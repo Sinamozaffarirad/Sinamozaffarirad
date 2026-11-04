@@ -28,6 +28,15 @@ further than the assignment: measuring results, comparing alternatives, and writ
 | [NLP course assignments](https://github.com/Sinamozaffarirad/NLP-Course-Assignments) | N-gram language models, Naive Bayes and Skip-gram written from scratch, partly on Persian text. |
 | [Digital image processing in MATLAB](https://github.com/Sinamozaffarirad/Digital-Image-Processing-MATLAB) | Exercises from two image processing textbooks: filtering, restoration, Fourier, morphology. |
 
+## AI: search and constraint satisfaction
+
+| Project | What it is |
+|---------|------------|
+| [Sudoku as a CSP](https://github.com/Sinamozaffarirad/sudoku-csp-solver) | Backtracking, MRV, degree heuristic and AC-3. MRV + degree visits 8× fewer states on a hard puzzle, but is slower in time, and the README explains why. |
+| [8-puzzle solver](https://github.com/Sinamozaffarirad/8-puzzle-solver) | BFS, IDS and A* on a 31-move board (the hardest case), with a solvability check. |
+| [Flow puzzle solver](https://github.com/Sinamozaffarirad/flow-puzzle-solver) | A* path per colour plus backtracking over the colour order. |
+| [Tic-Tac-Toe with minimax](https://github.com/Sinamozaffarirad/tic-tac-toe-minimax) | Minimax with alpha-beta pruning; never loses against any of the 782 possible human strategies. |
+
 ## Tools I've used
 
 **Hardware / embedded:** C, VHDL, AVR (CodeVisionAVR), ESP8266 (Arduino), Proteus, LogicWorks, MQTT, Node-RED
