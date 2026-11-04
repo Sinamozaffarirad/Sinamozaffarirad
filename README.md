@@ -17,7 +17,7 @@ further than the assignment: measuring results, comparing alternatives, and writ
 | [FFT8: static vs dynamic dataflow scheduling](https://github.com/Sinamozaffarirad/fft8-hardware-software-codesign) | An 8-point FFT as four dataflow actors in C++, run with a static schedule, a FIFO-driven schedule and one thread per actor. |
 | [Indoor air quality monitor](https://github.com/Sinamozaffarirad/IoT-Air-Quality-Monitoring) | ESP8266 with five sensors on one I²C bus, cross-sensor temperature compensation, change-based MQTT, Node-RED and a Streamlit dashboard. |
 | [ATmega32 laser engraver](https://github.com/Sinamozaffarirad/atmega32-laser-engraver) | Bare-metal C on an AVR: Bresenham lines and midpoint circles driven as stepper-motor steps, keypad + GLCD interface, Proteus simulation. |
-| [Traffic light controller (VHDL)](https://github.com/Sinamozaffarirad/synchronous-traffic-controller-vhdl) | FSM with a pedestrian request in VHDL and LogicWorks, kept with a list of its known bugs and how to fix them. |
+| [Traffic light controller (VHDL)](https://github.com/Sinamozaffarirad/synchronous-traffic-controller-vhdl) | Clocked FSM with a latched pedestrian request, verified in ModelSim by a self-checking testbench. |
 
 ## Signal processing, vision and NLP
 
