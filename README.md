@@ -6,6 +6,12 @@ B.Sc. in Computer Engineering at the University of Kashan.
 During my master's I want to work on hardware for AI: accelerator architectures, the on-chip networks that
 move data between their processing elements, and the hardware/software co-design that decides what runs where.
 
+## Current work
+
+| Project | What it is |
+|---------|------------|
+| [Approximate MAC units for DNN accelerators](https://github.com/GitCodingMates/approx-mac-dnn) | With Fatemeh Dastyafteh. Exact, truncated and Mitchell 8-bit multipliers in a pipelined MAC: Python bit-accurate models, int8 MNIST inference, Verilog RTL verified exhaustively in ModelSim (100 % code coverage), Yosys synthesis. Truncation cuts MAC area by 38.9 % for 0.42 % accuracy loss. |
+
 The projects below are from my bachelor's, in computer architecture, NoC modelling, embedded systems, signal
 processing and AI. 
 
@@ -39,5 +45,5 @@ processing and AI.
 
 ## Tools I've used
 
-**Hardware / embedded:** C, VHDL, AVR (CodeVisionAVR), ESP8266 (Arduino), Proteus, LogicWorks, MQTT, Node-RED
+**Hardware / embedded:** Verilog, VHDL, ModelSim, Yosys, C, AVR (CodeVisionAVR), ESP8266 (Arduino), Proteus, LogicWorks, MQTT, Node-RED
 **Software:** C++, Python (NumPy, OpenCV, librosa, scikit-learn, pandas), MATLAB
