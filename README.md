@@ -10,7 +10,7 @@ move data between their processing elements, and the hardware/software co-design
 
 | Project | What it is |
 |---------|------------|
-| [Approximate MAC units for DNN accelerators](https://github.com/GitCodingMates/approx-mac-dnn) | Cheaper multipliers for int8 DNN accelerators, from Python models to verified and synthesized Verilog. Truncation cuts MAC area by 39 % for under 0.5 % MNIST accuracy loss. With Fatemeh Dastyafteh. |
+| [Approximate MAC units for DNN accelerators](https://github.com/GitCodingMates/approx-mac-dnn) | Cheaper multipliers for int8 DNN accelerators, from Python models to verified and synthesized Verilog. Truncation cuts MAC area by 39 % for under 0.5 % MNIST accuracy loss.  |
 
 The projects below are from my bachelor's, in computer architecture, NoC modelling, embedded systems, signal
 processing and AI. 
