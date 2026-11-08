@@ -34,7 +34,7 @@ processing and AI.
 | [NLP course assignments](https://github.com/Sinamozaffarirad/NLP-Course-Assignments) | N-gram language models, Naive Bayes and Skip-gram written from scratch, partly on Persian text. |
 | [Digital image processing in MATLAB](https://github.com/Sinamozaffarirad/Digital-Image-Processing-MATLAB) | Exercises from two image processing textbooks: filtering, restoration, Fourier, morphology. |
 
-## AI: search and constraint satisfaction
+## AI: search, constraint satisfaction and neural networks
 
 | Project | What it is |
 |---------|------------|
@@ -42,8 +42,9 @@ processing and AI.
 | [8-puzzle solver](https://github.com/Sinamozaffarirad/8-puzzle-solver) | BFS, IDS and A* on a 31-move board (the hardest case), with a solvability check. |
 | [Flow puzzle solver](https://github.com/Sinamozaffarirad/flow-puzzle-solver) | A* path per colour plus backtracking over the colour order. |
 | [Tic-Tac-Toe with minimax](https://github.com/Sinamozaffarirad/tic-tac-toe-minimax) | Minimax with alpha-beta pruning; never loses against any of the 782 possible human strategies. |
+| [Neural network exercises (Soft Computing)](https://github.com/Sinamozaffarirad/soft-computing-neural-networks) | Adaline and perceptron on Iris, and a two-hidden-layer network that solves XOR, with my own training loops in PyTorch. |
 
 ## Tools I've used
 
 **Hardware / embedded:** Verilog, VHDL, ModelSim, Yosys, C, AVR (CodeVisionAVR), ESP8266 (Arduino), Proteus, LogicWorks, MQTT, Node-RED
-**Software:** C++, Python (NumPy, OpenCV, librosa, scikit-learn, pandas), MATLAB
+**Software:** C++, Python (NumPy, PyTorch, OpenCV, librosa, scikit-learn, pandas), MATLAB
